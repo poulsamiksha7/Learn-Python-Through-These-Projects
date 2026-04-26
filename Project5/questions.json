@@ -1,0 +1,50 @@
+{"questions": [
+    {
+        "question":"What does CPU stand for?",
+        "options":["Central Process Unit","Central Processing Unit","Computer Personal Unit","Control Processing Unit"],
+        "answer":"Central Processing Unit"
+    },
+
+    {
+        "question":"Which language is primarily used for Data Science?",
+        "options":["Python","HTML","CSS","PHP"],
+        "answer":"Python"
+    },
+
+    {
+        "question":"What is the output type of input() in Python?",
+        "options":["int","float","string","boolean"],
+        "answer":"string"
+    },
+
+    {
+        "question":"Which keyword is used to define a function in Python?",
+        "options":["func","define","def","function"],
+        "answer":"def"
+    },
+
+    {
+        "question":"Which data structure uses key-value pairs?",
+        "options":["List","Tuple","Dictionary","Set"],
+        "answer":"Dictionary"
+    },
+
+    {
+        "question":"Which symbol is used for comments in Python?",
+        "options":["//","#","/*","--"],
+        "answer":"#"
+    },
+
+    {
+        "question":"What does OOP stand for?",
+        "options":["Object Oriented Programming","Only Object Programming","Object Order Program","Open Oriented Programming"],
+        "answer":"Object Oriented Programming"
+    },
+
+    {
+        "question":"Which loop runs while a condition is True?",
+        "options":["for","while","do while","repeat"],
+        "answer":"while"
+    }
+
+]}
